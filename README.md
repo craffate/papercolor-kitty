@@ -5,7 +5,7 @@ This is a version of the [PaperColor Theme](https://github.com/NLKNguyen/paperco
 1. Clone the repository.
 
     ```shell
-    git clone https://github.com/craffate/papercolor-kitty ~/.config/kitty
+    git clone https://github.com/craffate/papercolor-kitty.git ~/.config/kitty/papercolor-kitty
     ```
 
 2. Edit your kitty configuration file to use either color scheme.
